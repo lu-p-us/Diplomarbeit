@@ -7,7 +7,7 @@ Die Diplomarbeit wurde von Thomas Wolf an der Friedrich-Schiller-Universität
 Jena - Fakultät für Mathematik und Informatik und am Leibniz-Institut für
 Naturstoff-Forschung und Infektionsbiologie e. V. - Hans-Knöll-Institut -
 Forschungsgruppe Systembiologie/Bioinformatik zur Erlangung des akademischen
-Grades Diplom-Bioinformtiker erstellt.
+Grades Diplom-Bioinformatiker erstellt.
 
 Es enthält eine Genomsequenz und die zugehörige Annotation, ein Flatfile der
 FunTF-Datenbank, Quellcode von Perl- und R-Programmen, die von Perl erzeugten
